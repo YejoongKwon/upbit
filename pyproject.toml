@@ -1,0 +1,13 @@
+[project]
+name = "upbit"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "dotenv>=0.9.9",
+    "ipykernel>=6.30.0",
+    "matplotlib>=3.10.5",
+    "notebook>=7.4.4",
+    "pyupbit>=0.2.34",
+]
