@@ -1984,6 +1984,7 @@ dependencies = [
     { name = "ipykernel" },
     { name = "matplotlib" },
     { name = "notebook" },
+    { name = "pandas" },
     { name = "pyupbit" },
 ]
 
@@ -1993,6 +1994,7 @@ requires-dist = [
     { name = "ipykernel", specifier = ">=6.30.0" },
     { name = "matplotlib", specifier = ">=3.10.5" },
     { name = "notebook", specifier = ">=7.4.4" },
+    { name = "pandas", specifier = ">=2.3.1" },
     { name = "pyupbit", specifier = ">=0.2.34" },
 ]
 

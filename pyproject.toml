@@ -9,5 +9,6 @@ dependencies = [
     "ipykernel>=6.30.0",
     "matplotlib>=3.10.5",
     "notebook>=7.4.4",
+    "pandas>=2.3.1",
     "pyupbit>=0.2.34",
 ]
